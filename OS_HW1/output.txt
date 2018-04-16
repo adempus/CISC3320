@@ -1,0 +1,9 @@
+Testing status of a process id that is not in use: pid 512
+process 512 is not in use.
+
+Testing process id retrieval
+got process number: 2246
+process 2246 is in use.
+
+Releasing process number 2246
+process 2246 is not in use.
