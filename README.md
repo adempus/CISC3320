@@ -2,7 +2,7 @@
 
 ## Final Project
 
-This project consisted of writing a program that simulates the process of job scheduling in an OS kernel in; FCFS fashion. 
+This project consisted of writing a program that simulates the process of job scheduling in an OS kernel, in FCFS fashion. 
 It involves using multithreading in Java to employ the use of threads as tasks, and synchronization using a semaphore
 to safeguard against race conditions when assigning/unassigning unique Process Identifiers (from a shared resource),
 to a new task. 
